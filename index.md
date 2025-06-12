@@ -1,46 +1,60 @@
-Privacy Policy for AskSmartAI
+# AskSmartAI – Privacy Policy
 
-Effective Date: June 11, 2025
-Contact Email: pir.studio2025@gmail.com
-1. Introduction
+**Effective Date:** June 11, 2025  
+**Contact Email:** pir.studio2025@gmail.com
 
-AskSmartAI (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains how our mobile application (“AskSmartAI” or “the app”) collects, uses, and protects your information.
-2. Information We Collect
+---
 
-We do not collect any personal information such as your name, email address, or phone number.
+## 📘 Overview
 
-However, to provide core app functionality, we may collect:
+AskSmartAI is an educational app that enables users to ask questions via text or voice and receive intelligent responses powered by artificial intelligence. We value your privacy and are committed to being transparent about how your information is handled.
 
-    User Input: Any text you input or speak into the app (i.e., questions you ask).
+---
 
-    Device Information: Non-personal usage data such as device type, OS version, and app crash data (for performance improvement).
+## 📲 Data We Collect
 
-3. How We Use Your Information
+AskSmartAI **does not collect or store any personal data** from users.
 
-We use the information solely to:
+However, to generate responses to user queries, the app:
+- Sends the text of your question to our **private server**
+- Our server may forward that text to a third-party AI service (OpenAI) to generate a response
 
-    Process your questions and return AI-generated answers
+No personal identifiers (such as name, email, IP address) are included in these requests.
 
-    Improve app performance, stability, and user experience
+---
 
-Your input is sent to our private server at https://hayataiapp.homes, where it is processed using AI systems and returned as a response.
+## 🔄 Third-Party Services
 
-We do not store or retain personal data after processing.
-4. Data Sharing
+To provide accurate and helpful answers, AskSmartAI relies on external AI services.
 
-We do not share your data with third parties.
-Your questions are processed by our private servers. No external advertising, analytics, or tracking SDKs are used.
-5. Data Security
+Specifically, we use:
+- **OpenAI API** (a service of OpenAI, L.L.C.) to process user-submitted queries
 
-We take appropriate security measures (such as HTTPS encryption and access controls) to protect the transmission of user input and maintain the security of our systems.
-6. Children’s Privacy
+All queries are routed through our private server (`https://hayataiapp.homes`), and only the **question text** is sent to OpenAI.  
+No user-identifying data is included or stored by AskSmartAI or OpenAI.
 
-AskSmartAI is not directed to children under the age of 13. We do not knowingly collect or solicit data from children.
-7. Changes to This Policy
+You can read OpenAI’s API Data Usage Policy here:  
+[https://openai.com/policies/api-data-usage-policies](https://openai.com/policies/api-data-usage-policies)
 
-We may update this Privacy Policy from time to time. Any changes will be posted in the app or on our official site when available.
-8. Contact Us
+---
 
-If you have questions or concerns about this Privacy Policy, please contact us at:
+## 🚫 No Ads, No Tracking
 
-📧 pir.studio2025@gmail.com
+AskSmartAI:
+- ❌ Does not use advertising SDKs  
+- ❌ Does not track your activity across apps or websites  
+- ❌ Does not store your data on your device or in the cloud
+
+---
+
+## ✉️ Contact
+
+If you have questions or concerns about this Privacy Policy, feel free to reach out:
+
+📧 **pir.studio2025@gmail.com**
+
+---
+
+## 🔁 Changes to This Policy
+
+We may update this policy in the future. Any changes will be reflected on this page.
